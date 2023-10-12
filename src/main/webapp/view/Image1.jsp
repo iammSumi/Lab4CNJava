@@ -5,6 +5,6 @@
     <title>Image 1</title>
 </head>
 <body>
-<img src="./assets/logo.png" alt="">
+<img src="./assets/test3.png" alt="">
 </body>
 </html>
